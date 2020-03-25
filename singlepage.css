@@ -1,0 +1,33 @@
+.nav {
+	background-color: white;
+	margin: 0px;
+	border: none;
+}
+
+.flags {
+	padding-left: 160px;
+	padding-top: 13px;
+}
+
+.footer {
+	text-align: center;
+	background-color: darkblue;
+	border: 5px solid grey;
+}
+
+.space {
+	background-color: lightblue;
+	height: 30px;
+}
+
+.visit {
+	color: gold;
+}
+
+.location {
+	color: green;
+}
+
+.address {
+	color: white;
+}

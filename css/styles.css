@@ -1,0 +1,22 @@
+
+.body{
+	margin: 0px;
+	bottom: 0px;
+}
+
+
+.gap{
+	margin: 20px;
+	display: flex;
+
+}
+
+.Q {
+	height: 150px;
+	background-color: gray;
+	border: 1px solid black;
+	text-align: center;
+	margin-right: 20px;
+	padding-top: 25px;
+
+}
